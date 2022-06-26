@@ -8,4 +8,7 @@ Arbeitsteilung:
 Rouhaiv: Grundspiel
 Veronica: Erweiterung des Grundspiels (verschiedene food Sorten, Level, abschließende Verbesserungen, Webseite)
 
+Link zur Webseite:
+https://whowouldhaveguessedit.github.io/snake/
+
 
